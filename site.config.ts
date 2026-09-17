@@ -10,14 +10,13 @@ export default siteConfig({
   author: 'Diogo Brito',
   description: 'Technical Due Diligence, Project Management & Real Estate Advisory Services in Algarve, Portugal.',
 
-  // Redes Sociais (definidas como undefined em vez de null)
+  // Redes Sociais
   twitter: undefined,
   github: undefined,
   linkedin: undefined,
 
   // Definições de Imagens e Layout
   defaultPageIcon: undefined,
-  defaultPageBanner: undefined,
   pageUrlOverrides: undefined,
 
   // Funcionalidades
